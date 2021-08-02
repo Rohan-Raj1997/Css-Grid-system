@@ -1,0 +1,18 @@
+.main-one{
+    width: 100%;
+}
+.main-two{
+    width: 45%;
+    display: inline-block;
+}
+
+.main{
+    width: 100%;
+}
+
+.ab{
+    display: inline-block;
+    width: 45%;
+    margin-left:15px ;
+    
+}
